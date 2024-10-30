@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Numoco",
+    "code": "msynchro-multi-numoco-info",
+    "description": "The company was founded in Rybnik in 2005 under the Shop-A-Fashion brand, later we changed the name to Numoco. My grandmother initiated a great passion for designing and sewing in me when she sewed barbie doll dresses in the 90s",
+    "image": "https://www.megamo.pl/item-generator-2/data/images/numoco.com.png",
+    "category": "Fashion, underwear and jewelry",
+    "website": "https://www.numoco.com",
+    "language": "PL, EN, DE, CZ",
+    "ship-to": "PL, UE, WORLD",
+    "dropshipping": true,
+    "products": "up to 3.000",
+    "from": "PL",
+    "plans": [
+      "MINI - 300 products - 3 months",
+      "START - 3 000 products - 3 months",
+      "START - 3 000 products - 6 months (-20%)",
+      "START - 3 000 products - 12 months (-30%)"
+    ],
+    "id": 2237,
+    "catalog": "https://www.megamo.pl/en/2237-msynchro-multi-numoco-info.html"
+  },
+  {
+    "name": "Ivon",
+    "code": "msynchro-multi-ivon-info",
+    "description": "Ivon is a Polish brand of clothing for women. New ideas are created in our design office, and with them more patterns of women's clothes",
+    "image": "https://www.megamo.pl/item-generator-2/data/images/ivon-sklep.pl.png",
+    "category": "Fashion, underwear and jewelry",
+    "website": "https://www.ivon-sklep.pl",
+    "language": "PL",
+    "ship-to": "PL",
+    "dropshipping": null,
+    "products": "up to 3.000",
+    "from": "PL",
+    "plans": [
+      "MINI - 300 products - 3 months",
+      "START - 3 000 products - 3 months",
+      "START - 3 000 products - 6 months (-20%)",
+      "START - 3 000 products - 12 months (-30%)"
+    ],
+    "id": 2180,
+    "catalog": "https://www.megamo.pl/en/2180-msynchro-multi-ivon-info.html"
+  },
+  {
+    "name": "Fobya",
+    "code": "msynchro-multi-fobya-info",
+    "description": "Maxv is the owner of Marek Fobya, Fimfi and Knitis, since 1992 we have produced women's and knitted products, and our company is in the center of Poland in G\u0142owno. Fobya specializes in the production of knitted clothing - sweaters, cardigans, dresses",
+    "image": "https://www.megamo.pl/item-generator-2/data/images/fobya.com.png",
+    "category": "Fashion, underwear and jewelry",
+    "website": "https://www.fobya.com",
+    "language": "PL, EN",
+    "ship-to": "PL, UE",
+    "dropshipping": true,
+    "products": "1.000 - 5.000",
+    "from": "PL",
+    "plans": [
+      "MINI - 300 products - 3 months",
+      "START - 3 000 products - 3 months",
+      "START - 3 000 products - 6 months (-20%)",
+      "START - 3 000 products - 12 months (-30%)"
+    ],
+    "id": 2196,
+    "catalog": "https://www.megamo.pl/en/2196-msynchro-multi-fobya-info.html"
+  }
+]

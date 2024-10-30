@@ -1,0 +1,6 @@
+<?php
+
+define('MEGAMO_SERVICE_URL', "http://127.0.0.1:8000");
+//define('MEGAMO_SERVICE_URL', "http://localhost.pl:8000");
+
+//define( 'MGO_DEBUG_MODE', true );
